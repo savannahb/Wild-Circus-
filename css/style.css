@@ -18,8 +18,11 @@ input[type="submit"] {
   background: black;
   color: white;
 } 
-  footer
-  {
-	  width: 100%;height: 50px;position: absolute;bottom: 0;left: 0;background: #000;border-top: 1px solid #3949A2;
-  
+footer{
+width: 100%;height: 50px;position: relative;bottom: 0;left: 0;background: #000;border-top: 1px solid #3949A2;
+}
+.banniere2 { 
+  margin: 40px 0px 0px 0px;
+  border: 7px solid white;
+  border-radius: 20px;
 }
