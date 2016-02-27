@@ -60,6 +60,77 @@ footer{
 	
 
 }
+
+.ombre {
+	text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.99);
+	color: #FCFCFC;
+	font-size: 15pxpx;
+}
+
+.ombretwo {
+	text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.99);
+	color: #FCFCFC;
+	font-size: 15pxpx;
+}
+
+.ombrethree {
+	text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.99);
+	color: #FCFCFC;
+	font-size: 15px;
+}
+
+
+.perform {
+	text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.99);
+	color: #FCFCFC;
+	font-size: 15px;
+}
+
+
+
+@font-face {
+ font-family:"Sim hei";
+ src: url('../font/simhei_0.ttf');
+ font-style: normal;
+ font-stretch: normal;
+}
+.ombre{
+font:20px "Sim hei",Verdana,Segoe,sans-serif;
+}
+
+@font-face {
+ font-family:"Sim hei";
+ src: url('../font/simhei_0.ttf');
+ font-style: normal;
+ font-stretch: normal;
+}
+.ombretwo{
+font:20px "Sim hei",Verdana,Segoe,sans-serif;
+}
+
+
+@font-face {
+ font-family:"Sim hei";
+ src: url('../font/simhei_0.ttf');
+ font-style: normal;
+ font-stretch: normal;
+}
+.ombrethree{
+font:20px "Sim hei",Verdana,Segoe,sans-serif;
+}
+
+
+@font-face {
+ font-family:"Sim hei";
+ src: url('../font/simhei_0.ttf');
+ font-style: normal;
+ font-stretch: normal;
+}
+.perform{
+font:20px "Sim hei",Verdana,Segoe,sans-serif;
+}
+
+
 #program{ background: url(../img/boutonhome.jpg) no-repeat;}
 #performances{ background: url(../img/boutonperf.jpg) no-repeat;}
 #dates{ background: url(../img/boutondates.jpg) no-repeat;}
@@ -131,6 +202,11 @@ footer{
   
 } 
 
+#ticket
+{
+	float: right;
+	
+}
 
 #clown {
    width: 1040px;
