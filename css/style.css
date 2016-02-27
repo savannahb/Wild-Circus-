@@ -145,6 +145,7 @@ font:20px "Sim hei",Verdana,Segoe,sans-serif;
    margin-right: auto;
    background-color: rgba(255, 255, 255, 0.7);
    padding-top:50px;
+   
   
    
     
@@ -157,6 +158,7 @@ font:20px "Sim hei",Verdana,Segoe,sans-serif;
    margin-right: auto;
    background-color: rgba(255, 255, 255, 0.7);
    padding-top:50px;
+   
   
    
     
@@ -167,6 +169,7 @@ font:20px "Sim hei",Verdana,Segoe,sans-serif;
 {
 	float: left;
 	
+	
 }
 
 	
@@ -178,6 +181,7 @@ font:20px "Sim hei",Verdana,Segoe,sans-serif;
    margin-right: auto;
    background-color: rgba(255, 255, 255, 0.7);
    padding-top:50px;
+   
   
    
 } 
@@ -188,6 +192,7 @@ font:20px "Sim hei",Verdana,Segoe,sans-serif;
    margin-right: auto;
    background-color: rgba(255, 255, 255, 0.7);
    padding-top:50px;
+ 
   
    
     
@@ -199,12 +204,14 @@ font:20px "Sim hei",Verdana,Segoe,sans-serif;
    margin-right: auto;
    background-color: rgba(255, 255, 255, 0.7);
    padding-top:50px;
+   
   
 } 
 
 #ticket
 {
 	float: right;
+	
 	
 }
 
@@ -214,6 +221,7 @@ font:20px "Sim hei",Verdana,Segoe,sans-serif;
    margin-right: auto;
    background-color: rgba(255, 255, 255, 0.7);
    padding-top:50px;
+   
   
 } 
 
@@ -225,6 +233,7 @@ font:20px "Sim hei",Verdana,Segoe,sans-serif;
    padding-top:50px;
    
    
+   
 } 
 
 
@@ -234,6 +243,80 @@ font:20px "Sim hei",Verdana,Segoe,sans-serif;
    margin-right: auto;
    background-color: rgba(255, 255, 255, 0.7);
    padding-top:50px;
+ 
    
    
 } 
+
+
+@media (max-width: 500px) {
+	
+.banniere2 {
+	width:300px;
+	
+}
+.nav {
+	width:400px;
+	
+	} 
+#texteopaque {
+	width: 200px;
+	
+} 
+
+#performance {
+	width:200px;
+}
+
+
+#article { 
+width: 300px;}
+
+#content { 
+width: 300px;
+}
+
+#ticket {
+	width: 300px;
+	
+} 
+
+#elephant {
+	width:150px;
+	
+
+}
+
+#john {
+	width: 200px;
+}
+
+#tiger {
+	width:250px;
+}
+
+
+#clown {
+	width: 250px;
+}
+
+#theclown { 
+width: 150px;}
+}
+
+
+#trapez { 
+width: 300px}
+
+
+#trapezist { 
+width: 200px;
+ }
+
+
+}
+
+
+#foot3c603 div, #foot3c603 div div div{
+	
+	
