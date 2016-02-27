@@ -4,6 +4,7 @@ body {
   background-image:url(http://thumbs.dreamstime.com/z/fond-fantastique-de-place-de-cirque-de-couleur-46588673.jpg);
   font-family: helvetica;
   color: white;
+  margin: 0px
 }
 p {
   font-size: 22px;
@@ -18,8 +19,16 @@ input[type="submit"] {
   color: white;
 } 
 footer{
-width: 100%;height: 50px;position: relative;bottom: 0;left: 0;background: white;border-top: 1px solid #3949A2; color: green;
+ position: fixed;
+ left: 0px;
+ bottom: 0px;
+ height: 30px;
+ width: 100%;
+ color: rgb(255,255,255, 1);
+ background-color: rgba(238, 212, 126, 0);
+ 
 }
+
 .banniere2 { 
   margin: 40px 0px 0px 0px;
   border: 7px solid white;
@@ -35,6 +44,8 @@ width: 100%;height: 50px;position: relative;bottom: 0;left: 0;background: white;
   
 } 
 
+
+
 .nav a{
     width: 163px;
 	height:67px;
@@ -45,14 +56,108 @@ width: 100%;height: 50px;position: relative;bottom: 0;left: 0;background: white;
     vertical-align: middle;
     color: white;
     float: left;
+	
+	
+
 }
 #program{ background: url(../img/boutonhome.jpg) no-repeat;}
 #performances{ background: url(../img/boutonperf.jpg) no-repeat;}
 #dates{ background: url(../img/boutondates.jpg) no-repeat;}
 #prices{ background: url(../img/boutonprice.jpg) no-repeat;}
 
-.article { 
- clear:both 
- 
 
+
+
+#texteopaque {
+   width: 1040px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: rgba(255, 255, 255, 0.7);
+   padding-top:50px;
+  
+   
+    
+   
 }
+
+#article {
+   width: 1040px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: rgba(255, 255, 255, 0.7);
+   padding-top:50px;
+  
+   
+    
+   }
+   
+   
+#elephant
+{
+	float: left;
+	
+}
+
+	
+
+
+#article {
+   width: 1040px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: rgba(255, 255, 255, 0.7);
+   padding-top:50px;
+  
+   
+} 
+
+#performance {
+   width: 1040px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: rgba(255, 255, 255, 0.7);
+   padding-top:50px;
+  
+   
+    
+}
+
+#john {
+   width: 1040px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: rgba(255, 255, 255, 0.7);
+   padding-top:50px;
+  
+} 
+
+
+#clown {
+   width: 1040px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: rgba(255, 255, 255, 0.7);
+   padding-top:50px;
+  
+} 
+
+#trapez {
+   width: 1040px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: rgba(255, 255, 255, 0.7);
+   padding-top:50px;
+   
+   
+} 
+
+
+#content {
+   width: 1040px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: rgba(255, 255, 255, 0.7);
+   padding-top:50px;
+   
+   
+} 
